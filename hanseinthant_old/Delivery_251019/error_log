@@ -1,0 +1,14 @@
+[23-Sep-2019 07:47:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Sep-2019 07:47:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Sep-2019 07:47:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-Oct-2019 03:01:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[16-Oct-2019 07:07:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[17-Oct-2019 02:47:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[17-Oct-2019 02:49:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34

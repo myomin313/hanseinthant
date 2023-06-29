@@ -1,0 +1,12 @@
+[18-Oct-2019 04:18:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:18:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13

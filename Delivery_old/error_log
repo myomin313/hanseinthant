@@ -1,0 +1,415 @@
+[23-Sep-2019 07:47:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Sep-2019 07:47:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Sep-2019 07:47:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[23-Sep-2019 07:47:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Sep-2019 07:25:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-Oct-2019 03:01:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[16-Oct-2019 07:07:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[17-Oct-2019 02:47:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[17-Oct-2019 02:49:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[29-Oct-2019 04:26:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[31-Oct-2019 10:11:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[31-Oct-2019 10:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[31-Oct-2019 10:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[13-Nov-2019 02:34:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[14-Nov-2019 11:16:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[14-Nov-2019 11:16:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[18-Nov-2019 07:28:17 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[21-Nov-2019 04:15:06 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[21-Nov-2019 07:56:34 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[21-Nov-2019 09:54:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-Nov-2019 09:54:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Nov-2019 10:24:39 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 140
+[23-Nov-2019 10:24:39 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 141
+[23-Nov-2019 10:24:39 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 142
+[25-Nov-2019 03:03:12 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[25-Nov-2019 04:12:28 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 140
+[25-Nov-2019 04:12:28 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 141
+[25-Nov-2019 04:12:28 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 142
+[25-Nov-2019 05:44:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Nov-2019 05:44:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Nov-2019 05:51:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Nov-2019 05:51:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Nov-2019 05:59:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Nov-2019 05:59:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Nov-2019 06:01:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Nov-2019 06:01:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Nov-2019 06:01:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Nov-2019 06:01:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Nov-2019 09:19:58 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[25-Nov-2019 10:00:11 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 140
+[25-Nov-2019 10:00:11 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 141
+[25-Nov-2019 10:00:11 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 142
+[26-Nov-2019 05:04:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[26-Nov-2019 05:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[26-Nov-2019 07:35:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[26-Nov-2019 07:35:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94
+[27-Nov-2019 04:53:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-Nov-2019 04:53:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-Nov-2019 04:53:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-Nov-2019 04:53:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-Nov-2019 04:53:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-Nov-2019 04:53:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-Nov-2019 04:53:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-Nov-2019 04:53:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-Nov-2019 05:04:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 140
+[27-Nov-2019 05:04:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 141
+[27-Nov-2019 05:04:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 142
+[27-Nov-2019 05:38:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Delivery/updates.php on line 5
+[27-Nov-2019 05:39:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Delivery/updates.php on line 5
+[01-Dec-2019 03:02:06 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[03-Dec-2019 04:18:25 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[05-Dec-2019 07:51:10 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[05-Dec-2019 08:00:57 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[05-Dec-2019 08:19:01 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[05-Dec-2019 09:50:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[05-Dec-2019 10:21:41 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[06-Dec-2019 09:04:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[06-Dec-2019 09:04:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[06-Dec-2019 09:04:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[06-Dec-2019 09:04:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[07-Dec-2019 02:56:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[07-Dec-2019 02:59:54 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[07-Dec-2019 08:41:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[07-Dec-2019 08:41:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[07-Dec-2019 08:41:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[07-Dec-2019 08:41:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=1904837 in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:04:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:04:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[11-Dec-2019 07:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/autofill.php:163
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 163
+[11-Dec-2019 07:06:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:06:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/list.php on line 534
+[11-Dec-2019 07:06:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Delivery/show_data.php on line 3
+[11-Dec-2019 07:07:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:07:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[11-Dec-2019 07:07:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[11-Dec-2019 07:07:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:07:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/list.php on line 534
+[11-Dec-2019 07:07:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Delivery/show_data.php on line 3
+[11-Dec-2019 07:07:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:07:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Delivery/list.php on line 534
+[11-Dec-2019 07:07:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Delivery/show_data.php on line 3
+[11-Dec-2019 07:22:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[12-Dec-2019 06:39:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[12-Dec-2019 06:39:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[13-Dec-2019 03:20:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[13-Dec-2019 06:59:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[13-Dec-2019 07:00:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[14-Dec-2019 08:23:27 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[14-Dec-2019 08:23:27 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94
+[14-Dec-2019 09:01:54 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[14-Dec-2019 09:01:54 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[14-Dec-2019 09:01:54 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[14-Dec-2019 09:01:54 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[15-Dec-2019 08:08:35 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[15-Dec-2019 08:08:35 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[15-Dec-2019 08:08:35 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[15-Dec-2019 08:08:35 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[16-Dec-2019 02:20:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[16-Dec-2019 02:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[16-Dec-2019 02:20:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[16-Dec-2019 02:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[16-Dec-2019 02:20:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[16-Dec-2019 02:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[16-Dec-2019 02:20:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[16-Dec-2019 02:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[16-Dec-2019 02:20:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[16-Dec-2019 02:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[16-Dec-2019 09:07:21 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[16-Dec-2019 09:07:21 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[16-Dec-2019 09:07:21 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[16-Dec-2019 09:07:21 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[19-Dec-2019 04:14:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[19-Dec-2019 04:14:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[21-Dec-2019 03:21:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[21-Dec-2019 03:21:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Delivery/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/brandname.php on line 27
+[23-Dec-2019 05:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[23-Dec-2019 05:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/hanseinthant/public_html/Delivery/checkstock.php:34
+Stack trace:
+#0 /home/hanseinthant/public_html/Delivery/checkstock.php(14): fncCheckStock(false)
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/checkstock.php on line 34
+[27-Dec-2019 06:26:25 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[28-Dec-2019 07:52:28 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[29-Dec-2019 05:26:41 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[30-Dec-2019 02:54:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[30-Dec-2019 02:59:59 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 142
+[03-Jan-2020 09:38:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[03-Jan-2020 09:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[10-Jan-2020 03:55:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[10-Jan-2020 03:55:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[10-Jan-2020 03:55:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[10-Jan-2020 03:55:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[11-Jan-2020 04:35:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[11-Jan-2020 04:35:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94
+[14-Jan-2020 09:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[14-Jan-2020 09:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[16-Jan-2020 10:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[17-Jan-2020 08:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[17-Jan-2020 09:03:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[17-Jan-2020 09:03:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-Jan-2020 04:03:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-Jan-2020 04:03:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-Jan-2020 04:03:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-Jan-2020 04:03:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[22-Jan-2020 02:32:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[22-Jan-2020 02:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/hanseinthant/public_html/Delivery/checkstock.php:34
+Stack trace:
+#0 /home/hanseinthant/public_html/Delivery/checkstock.php(14): fncCheckStock(false)
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/checkstock.php on line 34
+[22-Jan-2020 06:09:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[22-Jan-2020 06:09:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[23-Jan-2020 09:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[27-Jan-2020 10:08:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[30-Jan-2020 04:56:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[31-Jan-2020 09:23:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[31-Jan-2020 09:23:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[31-Jan-2020 09:23:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[31-Jan-2020 09:23:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[07-Feb-2020 08:25:45 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[07-Feb-2020 08:57:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[10-Feb-2020 08:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[10-Feb-2020 08:33:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[19-Feb-2020 06:51:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[19-Feb-2020 06:51:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[24-Feb-2020 03:02:01 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[24-Feb-2020 03:58:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[24-Feb-2020 10:40:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Delivery/history.php:256
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/history.php on line 256
+[25-Feb-2020 02:26:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[25-Feb-2020 02:26:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Delivery/list.php on line 541
+[25-Feb-2020 02:26:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Delivery/show_data.php on line 3
+[25-Feb-2020 03:04:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-Feb-2020 03:04:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-Feb-2020 04:25:57 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[28-Feb-2020 02:25:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[28-Feb-2020 02:25:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[28-Feb-2020 02:25:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/Delivery/autofill.php:735
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 735
+[28-Feb-2020 02:25:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[28-Feb-2020 02:25:20 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Delivery/autofill.php on line 17
+[28-Feb-2020 02:25:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/Delivery/autofill.php:735
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Delivery/autofill.php on line 735
+[03-Mar-2020 02:59:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 02:59:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 02:59:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 02:59:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 03:11:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 03:11:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 04:55:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 04:55:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 04:55:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 04:55:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 04:55:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 04:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[03-Mar-2020 04:55:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[03-Mar-2020 04:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[05-Mar-2020 04:12:33 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[05-Mar-2020 04:12:33 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[05-Mar-2020 04:12:33 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[05-Mar-2020 04:12:33 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[06-Mar-2020 10:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[06-Mar-2020 10:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[06-Mar-2020 10:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[06-Mar-2020 10:33:37 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[07-Mar-2020 02:37:25 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 75
+[07-Mar-2020 02:37:25 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 105
+[07-Mar-2020 02:41:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[11-Mar-2020 06:51:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[12-Mar-2020 06:40:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[17-Mar-2020 10:11:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[17-Mar-2020 10:11:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[19-Mar-2020 06:10:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[19-Mar-2020 06:10:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[30-Mar-2020 07:57:48 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 148
+[10-May-2020 06:27:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 174
+[10-May-2020 06:27:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 175
+[10-May-2020 06:27:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 176
+[10-May-2020 06:27:26 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/save.php on line 198
+[11-May-2020 08:35:48 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[11-May-2020 08:35:48 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94
+[12-May-2020 02:31:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[12-May-2020 02:31:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94
+[16-May-2020 03:47:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 03:47:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 03:49:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 03:49:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 03:49:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 03:49:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 05:29:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 05:29:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 05:29:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 05:29:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 05:29:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 05:29:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 05:29:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 05:29:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[16-May-2020 05:29:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[16-May-2020 05:29:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[20-May-2020 06:09:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[20-May-2020 06:09:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[20-May-2020 09:06:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[20-May-2020 09:06:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[20-May-2020 09:06:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[20-May-2020 09:06:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 03:45:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 03:45:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 03:45:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 03:45:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 03:46:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 03:46:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 03:46:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 03:46:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 06:15:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 06:15:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[21-May-2020 09:08:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[21-May-2020 09:08:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[22-May-2020 06:06:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[22-May-2020 06:06:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[22-May-2020 10:30:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[22-May-2020 10:30:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[22-May-2020 10:30:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[22-May-2020 10:30:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[25-May-2020 07:25:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[25-May-2020 07:25:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[26-May-2020 10:33:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[26-May-2020 10:33:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-May-2020 05:10:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-May-2020 05:10:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-May-2020 05:53:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-May-2020 05:53:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-May-2020 05:53:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-May-2020 05:53:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14
+[27-May-2020 07:21:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 13
+[27-May-2020 07:21:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Delivery/loadmoredata.php on line 14

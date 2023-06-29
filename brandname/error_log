@@ -1,0 +1,18 @@
+[25-Aug-2020 04:41:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/brandname/detail.php on line 1
+[25-Aug-2020 04:41:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/brandname/detail.php:1) in /home/hanseinthant/public_html/brandname/detail.php on line 4
+[25-Aug-2020 04:42:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/brandname/detail.php on line 1
+[25-Aug-2020 04:42:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/brandname/detail.php:1) in /home/hanseinthant/public_html/brandname/detail.php on line 4
+[26-Aug-2020 04:56:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/brandname/detail.php on line 1
+[26-Aug-2020 04:56:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/brandname/detail.php:1) in /home/hanseinthant/public_html/brandname/detail.php on line 4
+[26-Aug-2020 05:36:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/brandname/detail.php on line 1
+[26-Aug-2020 05:36:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/brandname/detail.php:1) in /home/hanseinthant/public_html/brandname/detail.php on line 4
+[26-Aug-2020 06:20:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/brandname/detail.php on line 1
+[26-Aug-2020 06:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/brandname/detail.php:1) in /home/hanseinthant/public_html/brandname/detail.php on line 4
+[01-Dec-2020 09:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/brandname/save.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/brandname/save.php on line 30
+[13-Dec-2020 17:56:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/brandname/list.php on line 97
+[13-Dec-2020 17:56:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/brandname/list.php on line 100
+[12-Mar-2021 10:18:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/brandname/list.php on line 97
+[12-Mar-2021 10:18:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/brandname/list.php on line 100

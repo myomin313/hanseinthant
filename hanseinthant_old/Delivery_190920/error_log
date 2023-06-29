@@ -1,0 +1,5 @@
+[10-Sep-2019 07:00:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[12-Sep-2019 04:40:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[12-Sep-2019 04:44:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Delivery/save.php on line 34
+[16-Sep-2019 03:33:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 61
+[16-Sep-2019 03:33:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Delivery/updatenew.php on line 94

@@ -1,0 +1,208 @@
+[18-Oct-2019 04:18:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:18:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[18-Oct-2019 04:19:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[18-Oct-2019 04:19:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[26-Nov-2019 08:12:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[26-Nov-2019 08:12:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[26-Nov-2019 09:19:50 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/save.php on line 55
+[27-Nov-2019 05:42:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Job/updates.php on line 5
+[27-Nov-2019 05:47:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Job/updates.php on line 5
+[03-Dec-2019 09:44:42 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[06-Dec-2019 05:56:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[06-Dec-2019 05:56:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[06-Dec-2019 05:56:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[06-Dec-2019 05:56:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[06-Dec-2019 08:48:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[06-Dec-2019 08:48:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[11-Dec-2019 07:04:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=1904811 in /home/hanseinthant/public_html/Job/delete.php on line 108
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 338
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 374
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 379
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 443
+[11-Dec-2019 07:04:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 444
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 338
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 374
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 379
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/detail.php on line 443
+[11-Dec-2019 07:04:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/detail.php on line 444
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/list.php on line 350
+[11-Dec-2019 07:04:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/show_data.php on line 4
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/list.php on line 350
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/show_data.php on line 4
+[12-Dec-2019 05:56:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[12-Dec-2019 05:56:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[14-Dec-2019 07:12:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[14-Dec-2019 07:12:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[14-Dec-2019 07:12:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[14-Dec-2019 07:12:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[14-Dec-2019 08:21:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Job/save.php on line 29
+[18-Dec-2019 08:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Job/history.php:252
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/history.php on line 252
+[20-Dec-2019 02:02:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[20-Dec-2019 02:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/hanseinthant/public_html/Job/checkstock.php:35
+Stack trace:
+#0 /home/hanseinthant/public_html/Job/checkstock.php(14): fncCheckStock(false)
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Job/checkstock.php on line 35
+[21-Dec-2019 03:21:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/hanseinthant/public_html/Job/checkstock.php:35
+Stack trace:
+#0 /home/hanseinthant/public_html/Job/checkstock.php(14): fncCheckStock(false)
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Job/checkstock.php on line 35
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 23
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 24
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 25
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 26
+[21-Dec-2019 03:21:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 34
+[21-Dec-2019 03:21:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/hanseinthant/public_html/Job/updatenew.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/updatenew.php on line 35
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 23
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 24
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 25
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 26
+[21-Dec-2019 03:21:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/updatenew.php on line 34
+[21-Dec-2019 03:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/hanseinthant/public_html/Job/updatenew.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/updatenew.php on line 35
+[24-Dec-2019 01:51:53 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[24-Dec-2019 01:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on boolean in /home/hanseinthant/public_html/Job/checkstock.php:35
+Stack trace:
+#0 /home/hanseinthant/public_html/Job/checkstock.php(14): fncCheckStock(false)
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Job/checkstock.php on line 35
+[08-Jan-2020 01:53:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[08-Jan-2020 01:53:58 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 10
+[08-Jan-2020 01:53:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 28
+[08-Jan-2020 01:53:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 33
+[08-Jan-2020 01:54:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[08-Jan-2020 01:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Job/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/brandname.php on line 27
+[08-Jan-2020 01:54:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[08-Jan-2020 01:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Job/brandname.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/brandname.php on line 27
+[09-Jan-2020 09:43:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[09-Jan-2020 09:43:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[17-Jan-2020 08:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Job/history.php:252
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/history.php on line 252
+[10-Feb-2020 04:52:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[17-Feb-2020 08:47:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[17-Feb-2020 08:47:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:02:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:03:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:03:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:04:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:08:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:09:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:12:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:13:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 339
+[20-Feb-2020 07:21:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 338
+[20-Feb-2020 07:21:07 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/hanseinthant/public_html/Job/detail.php on line 375
+[20-Feb-2020 07:35:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 341
+[20-Feb-2020 07:35:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/detail.php on line 341
+[24-Feb-2020 06:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Job/history.php:252
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/history.php on line 252
+[24-Feb-2020 07:35:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[24-Feb-2020 07:35:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[24-Feb-2020 10:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Job/history.php:252
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Job/history.php on line 252
+[28-Feb-2020 06:36:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[28-Feb-2020 06:36:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[28-Feb-2020 06:36:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[28-Feb-2020 06:36:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[07-Mar-2020 08:58:03 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[07-Mar-2020 09:22:50 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[10-Mar-2020 02:27:39 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[10-Mar-2020 02:36:51 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[10-Mar-2020 02:45:06 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[10-Mar-2020 04:46:30 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[11-Mar-2020 03:11:06 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[11-Mar-2020 03:16:17 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[11-Mar-2020 03:17:11 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[11-Mar-2020 04:15:52 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/save.php on line 55
+[11-Mar-2020 06:18:08 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[07-Apr-2020 07:14:09 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[11-May-2020 09:02:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/updatenew.php on line 47
+[28-Jul-2020 07:10:35 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/hanseinthant/public_html/Job/show_data.php on line 47
+[12-Dec-2020 06:15:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[14-Dec-2020 03:44:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[14-Dec-2020 03:51:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[14-Dec-2020 03:55:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[14-Dec-2020 07:47:53 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Job/save.php on line 67
+[14-Dec-2020 14:34:03 UTC] PHP Parse error:  syntax error, unexpected '$match' (T_VARIABLE) in /home/hanseinthant/public_html/Job/detail.php on line 511
+[14-Dec-2020 14:34:30 UTC] PHP Parse error:  syntax error, unexpected '$match' (T_VARIABLE) in /home/hanseinthant/public_html/Job/detail.php on line 511
+[14-Dec-2020 14:34:44 UTC] PHP Parse error:  syntax error, unexpected '$match' (T_VARIABLE) in /home/hanseinthant/public_html/Job/detail.php on line 511
+[15-Dec-2020 03:34:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[15-Dec-2020 03:35:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[15-Dec-2020 03:35:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[15-Dec-2020 03:38:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/get-commodityss.php on line 37
+[21-Dec-2020 09:49:47 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[06-Mar-2021 09:01:08 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[06-Mar-2021 09:02:35 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[06-Mar-2021 09:02:43 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[06-Mar-2021 09:02:43 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 07:43:42 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 07:47:34 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 07:47:34 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 07:48:49 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 07:48:49 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-Mar-2021 08:35:09 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[11-Mar-2021 06:32:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[11-Mar-2021 06:32:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[23-Mar-2021 03:00:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:00:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:00:11 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:01:46 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:01:46 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:02:56 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:03:49 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:05:13 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:05:13 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:06:59 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[23-Mar-2021 03:06:59 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:44:25 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:44:25 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:47:48 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:52:05 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:52:05 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:56:20 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 03:57:34 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/hanseinthant/public_html/Job/get-datas.php on line 37
+[24-Mar-2021 04:04:22 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 04:04:22 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 04:08:23 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[24-Mar-2021 04:08:23 UTC] PHP Warning:  addslashes() expects exactly 1 parameter, 2 given in /home/hanseinthant/public_html/Job/get-datas.php on line 45
+[10-May-2021 09:56:03 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[10-May-2021 09:56:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13
+[27-Oct-2021 08:58:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Job/loadmoredata.php on line 12
+[27-Oct-2021 08:58:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Job/loadmoredata.php on line 13

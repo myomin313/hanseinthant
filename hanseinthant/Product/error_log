@@ -1,0 +1,1079 @@
+[06-Aug-2019 08:02:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[06-Aug-2019 09:28:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[06-Aug-2019 09:30:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[07-Aug-2019 07:54:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[03-Sep-2019 10:41:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[03-Sep-2019 10:41:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[03-Sep-2019 10:41:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[03-Sep-2019 10:41:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[03-Sep-2019 10:41:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[03-Sep-2019 10:41:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[04-Sep-2019 06:07:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[06-Sep-2019 09:14:11 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[06-Sep-2019 09:14:11 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[06-Sep-2019 09:14:25 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[06-Sep-2019 09:14:25 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[06-Sep-2019 09:16:48 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[06-Sep-2019 09:16:48 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[06-Sep-2019 09:18:53 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[06-Sep-2019 09:18:53 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[06-Sep-2019 09:30:32 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[06-Sep-2019 09:30:32 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[11-Sep-2019 06:13:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[12-Sep-2019 04:52:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[12-Sep-2019 06:58:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[19-Sep-2019 08:28:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[19-Sep-2019 08:28:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[20-Sep-2019 08:26:08 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[23-Sep-2019 07:22:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:22:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Sep-2019 07:22:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Sep-2019 07:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[28-Sep-2019 06:07:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[02-Oct-2019 05:05:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Oct-2019 05:05:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Oct-2019 06:26:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Oct-2019 06:26:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[04-Oct-2019 05:09:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[04-Oct-2019 05:09:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[07-Oct-2019 10:17:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[08-Oct-2019 10:27:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[08-Oct-2019 10:27:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[09-Oct-2019 09:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[09-Oct-2019 09:21:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[09-Oct-2019 09:21:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[09-Oct-2019 09:21:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[10-Oct-2019 07:02:13 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[21-Oct-2019 04:39:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Oct-2019 04:39:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Oct-2019 04:39:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Oct-2019 05:25:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Product/save.php on line 46
+[23-Oct-2019 06:13:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Oct-2019 06:13:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Oct-2019 06:16:43 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[23-Oct-2019 06:16:43 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[23-Oct-2019 06:16:51 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[23-Oct-2019 06:16:51 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[23-Oct-2019 06:17:19 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[23-Oct-2019 06:17:19 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[23-Oct-2019 06:40:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[23-Oct-2019 06:40:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[26-Oct-2019 03:53:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Oct-2019 03:53:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Oct-2019 03:53:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[30-Oct-2019 03:21:44 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[30-Oct-2019 03:21:44 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[30-Oct-2019 03:23:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[30-Oct-2019 03:23:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[30-Oct-2019 03:24:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:24:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:24:56 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:24:56 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:25:45 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:25:45 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:39:55 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:39:55 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:40:26 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:40:26 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:40:41 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:40:41 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:41:28 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:41:28 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 03:48:17 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 03:48:17 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:11:23 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:11:23 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:11:47 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:11:47 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:15:38 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:15:38 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:16:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:16:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:16:21 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:16:21 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:18:02 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:18:02 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:21:28 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:21:28 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:21:37 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:21:37 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:23:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:23:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:23:44 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:23:44 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:32:40 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:32:40 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:34:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:34:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:36:38 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:36:38 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:36:49 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:36:49 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:37:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:37:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:37:54 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:37:54 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:38:05 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:38:05 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:39:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:39:04 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:39:52 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 87
+[30-Oct-2019 04:39:52 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/update.php on line 88
+[30-Oct-2019 04:43:33 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[30-Oct-2019 04:43:33 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[30-Oct-2019 04:47:15 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[30-Oct-2019 04:47:15 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[30-Oct-2019 04:54:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 04:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 04:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 05:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 05:04:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 05:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 05:24:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 06:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 07:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/update.php on line 77
+[30-Oct-2019 07:04:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/update.php on line 79
+[30-Oct-2019 07:04:20 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/update.php on line 77
+[30-Oct-2019 07:04:20 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/update.php on line 79
+[30-Oct-2019 07:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 07:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 07:10:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[30-Oct-2019 07:10:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[30-Oct-2019 07:24:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Oct-2019 07:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 06:06:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Oct-2019 06:06:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Oct-2019 07:27:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 07:27:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 07:27:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 07:27:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 07:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 07:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 07:32:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 07:33:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 07:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Oct-2019 07:40:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 07:40:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 07:40:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 07:40:31 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 08:48:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 08:48:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 08:48:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 08:48:14 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 08:52:06 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 08:52:06 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 08:58:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[31-Oct-2019 08:58:18 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[31-Oct-2019 09:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[01-Nov-2019 10:05:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[01-Nov-2019 10:05:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[05-Nov-2019 03:55:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[05-Nov-2019 03:55:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[06-Nov-2019 04:56:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[14-Nov-2019 04:26:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[14-Nov-2019 04:26:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Nov-2019 06:22:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[22-Nov-2019 05:47:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[22-Nov-2019 05:47:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 03:08:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Nov-2019 08:33:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 08:33:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 08:33:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 08:33:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 08:33:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 08:33:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[23-Nov-2019 10:18:19 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/updatenew.php on line 52
+[23-Nov-2019 10:18:19 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/updatenew.php on line 53
+[25-Nov-2019 08:32:17 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[25-Nov-2019 08:32:17 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[25-Nov-2019 08:36:01 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[25-Nov-2019 08:36:01 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[25-Nov-2019 08:45:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/updatenew.php on line 52
+[25-Nov-2019 08:45:09 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/updatenew.php on line 53
+[25-Nov-2019 08:56:27 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 56
+[25-Nov-2019 08:56:27 UTC] PHP Warning:  Division by zero in /home/hanseinthant/public_html/Product/save.php on line 57
+[26-Nov-2019 03:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[26-Nov-2019 15:27:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[27-Nov-2019 05:56:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Nov-2019 05:56:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Nov-2019 05:56:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-Nov-2019 06:17:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[28-Nov-2019 06:17:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[29-Nov-2019 04:02:30 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 67
+[29-Nov-2019 08:11:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[29-Nov-2019 08:11:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[29-Nov-2019 08:11:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[29-Nov-2019 08:11:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 08:16:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 08:16:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:16:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:16:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:03 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:03 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Dec-2019 10:17:04 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Dec-2019 10:17:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 613
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Product/show_data.php on line 3
+[11-Dec-2019 07:04:57 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 670
+[11-Dec-2019 07:05:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[11-Dec-2019 07:05:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 613
+[11-Dec-2019 07:05:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Product/show_data.php on line 3
+[11-Dec-2019 07:05:05 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 670
+[12-Dec-2019 09:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/delete.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/delete.php on line 17
+[12-Dec-2019 09:54:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/delete.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/delete.php on line 17
+[12-Dec-2019 10:05:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURIComponent() in /home/hanseinthant/public_html/Product/show_data.php:10
+Stack trace:
+#0 /home/hanseinthant/public_html/Product/list.php(668): include()
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Product/show_data.php on line 10
+[12-Dec-2019 10:45:01 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/hanseinthant/public_html/Product/delete.php on line 98
+[12-Dec-2019 10:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function encodeURI() in /home/hanseinthant/public_html/Product/delete.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/delete.php on line 96
+[13-Dec-2019 07:37:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[13-Dec-2019 07:38:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Dec-2019 03:34:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Dec-2019 05:44:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[17-Dec-2019 05:44:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[17-Dec-2019 08:01:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[18-Dec-2019 06:35:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[18-Dec-2019 06:35:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[18-Dec-2019 06:37:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[18-Dec-2019 10:28:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[18-Dec-2019 10:28:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[18-Dec-2019 10:29:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[18-Dec-2019 10:29:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[19-Dec-2019 03:23:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[19-Dec-2019 03:41:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 06:01:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 06:01:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 07:22:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 08:05:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 08:06:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Dec-2019 08:10:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Dec-2019 08:10:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Dec-2019 08:10:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Dec-2019 08:10:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Dec-2019 08:28:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 02:59:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 03:01:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 03:21:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[21-Dec-2019 03:21:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/autofill.php on line 637
+[21-Dec-2019 03:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/Product/autofill.php:640
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/autofill.php on line 640
+[21-Dec-2019 04:54:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Dec-2019 04:54:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Dec-2019 04:54:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Dec-2019 04:54:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Dec-2019 05:32:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 06:03:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 06:03:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 06:03:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Dec-2019 06:03:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Dec-2019 07:58:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Dec-2019 07:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Dec-2019 07:58:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[23-Dec-2019 07:59:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[24-Dec-2019 04:39:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Dec-2019 04:39:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-Dec-2019 03:06:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:07:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:20:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:20:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 03:20:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:09:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:09:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:13:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:13:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:13:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Dec-2019 04:13:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[30-Dec-2019 03:03:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[02-Jan-2020 03:44:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Jan-2020 10:09:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[03-Jan-2020 10:09:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[03-Jan-2020 10:09:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[03-Jan-2020 10:09:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[16-Jan-2020 05:17:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Jan-2020 02:00:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[17-Jan-2020 02:00:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 616
+[17-Jan-2020 02:00:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Product/show_data.php on line 3
+[17-Jan-2020 02:00:37 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/hanseinthant/public_html/Product/list.php on line 673
+[17-Jan-2020 05:01:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Product/save.php on line 46
+[17-Jan-2020 08:40:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[17-Jan-2020 09:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[17-Jan-2020 09:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[17-Jan-2020 10:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[20-Jan-2020 10:56:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-Jan-2020 10:56:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-Jan-2020 10:56:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-Jan-2020 02:21:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[21-Jan-2020 09:16:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Jan-2020 09:17:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Jan-2020 09:56:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[21-Jan-2020 10:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[23-Jan-2020 02:35:01 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[23-Jan-2020 02:35:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Jan-2020 08:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[27-Jan-2020 08:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[29-Jan-2020 07:12:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[29-Jan-2020 07:12:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[29-Jan-2020 08:00:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[29-Jan-2020 08:00:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[29-Jan-2020 08:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Jan-2020 02:31:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[30-Jan-2020 04:55:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[31-Jan-2020 04:39:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:25 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[31-Jan-2020 04:39:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[31-Jan-2020 04:39:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[05-Feb-2020 09:46:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[07-Feb-2020 05:42:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[07-Feb-2020 05:42:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[07-Feb-2020 05:55:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[07-Feb-2020 06:28:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[07-Feb-2020 06:28:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[11-Feb-2020 08:24:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:08:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:25:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:28:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:31:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:32:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:32:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:33:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:34:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:35:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:35:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:40:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:42:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:44:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:58:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 09:59:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:00:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:03:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:09:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:11:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:12:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:13:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:15:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:18:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:21:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:22:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:24:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:27:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:27:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:30:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[11-Feb-2020 10:36:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:37:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:40:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:41:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:42:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:46:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:47:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 03:48:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 04:00:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:04:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:04:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:08:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:15:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:23:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:24:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:26:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:27:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:27:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:28:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:30:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:32:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:33:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:34:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:35:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:54:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:55:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:57:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:58:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:59:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 05:59:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 06:00:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 06:03:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 06:06:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 06:46:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[14-Feb-2020 07:22:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 07:23:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 07:25:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 07:28:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 07:30:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:14:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:16:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:16:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:17:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:17:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[14-Feb-2020 09:18:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:01:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[15-Feb-2020 03:08:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:13:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:23:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:25:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:29:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:33:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:34:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:46:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:49:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:51:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:54:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:56:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 03:59:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:03:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:06:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:07:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:09:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:15:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:16:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:17:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:18:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:18:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:19:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:19:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:22:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:23:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:23:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:26:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:26:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:30:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:30:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:43:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:43:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:44:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:46:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[15-Feb-2020 04:53:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:54:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:56:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 04:56:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 05:13:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[15-Feb-2020 05:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 05:22:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 05:55:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 05:57:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 05:58:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:01:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:01:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:07:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:09:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:11:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:12:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:14:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:14:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:15:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:25:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:26:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:28:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:31:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:32:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:32:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:33:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:45:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:45:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:45:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[15-Feb-2020 06:45:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 06:45:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 07:21:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[15-Feb-2020 07:21:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:06:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Feb-2020 03:13:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:18:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:19:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:23:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:25:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:32:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:36:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:38:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:40:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:42:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:45:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:46:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:48:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:48:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:50:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:51:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:52:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 03:53:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:03:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:18:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:21:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:23:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:24:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:27:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:28:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:29:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:36:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:39:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:40:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:41:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:47:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:48:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 04:51:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 05:01:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 06:37:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[17-Feb-2020 06:37:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[17-Feb-2020 08:22:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Feb-2020 08:28:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 08:48:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 09:45:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[17-Feb-2020 09:46:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 04:39:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 04:41:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 04:46:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 04:49:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 04:58:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 05:08:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 05:23:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 05:26:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[20-Feb-2020 07:49:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/detail.php on line 137
+[24-Feb-2020 05:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[24-Feb-2020 05:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[24-Feb-2020 06:39:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Feb-2020 06:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Feb-2020 06:39:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Feb-2020 06:39:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Feb-2020 06:39:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Feb-2020 06:39:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Feb-2020 06:39:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Feb-2020 06:39:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Feb-2020 06:39:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[24-Feb-2020 06:39:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[24-Feb-2020 06:57:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[24-Feb-2020 10:07:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[24-Feb-2020 10:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[24-Feb-2020 10:20:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Product/history.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/history.php on line 274
+[25-Feb-2020 05:02:15 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-Feb-2020 05:02:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Feb-2020 06:23:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Feb-2020 06:23:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Feb-2020 09:07:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[27-Feb-2020 02:23:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[27-Feb-2020 02:23:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Product/autofill.php on line 637
+[27-Feb-2020 02:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/Product/autofill.php:640
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/autofill.php on line 640
+[27-Feb-2020 02:23:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[27-Feb-2020 02:23:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Product/autofill.php on line 637
+[27-Feb-2020 02:23:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/Product/autofill.php:640
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Product/autofill.php on line 640
+[27-Feb-2020 04:57:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Feb-2020 04:57:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-Feb-2020 08:34:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-Feb-2020 08:34:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-Feb-2020 02:25:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/config.php on line 3
+[28-Feb-2020 02:25:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Product/list.php on line 620
+[28-Feb-2020 02:25:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/hanseinthant/public_html/Product/show_data.php on line 3
+[28-Feb-2020 02:25:29 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/hanseinthant/public_html/Product/list.php on line 677
+[28-Feb-2020 10:02:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[28-Feb-2020 10:03:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[29-Feb-2020 04:06:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 03:03:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 07:03:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 07:04:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 09:00:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 09:00:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 09:03:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Mar-2020 09:21:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[04-Mar-2020 03:33:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[04-Mar-2020 06:10:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[04-Mar-2020 06:35:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[04-Mar-2020 07:00:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[04-Mar-2020 07:00:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[04-Mar-2020 07:57:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[10-Mar-2020 03:36:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[10-Mar-2020 09:20:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[10-Mar-2020 09:20:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[10-Mar-2020 09:20:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[10-Mar-2020 09:20:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[10-Mar-2020 09:20:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[10-Mar-2020 09:20:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[10-Mar-2020 09:20:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[10-Mar-2020 09:20:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[10-Mar-2020 09:20:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[10-Mar-2020 09:20:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[11-Mar-2020 03:01:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[11-Mar-2020 03:10:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[11-Mar-2020 03:10:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[12-Mar-2020 03:50:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[12-Mar-2020 08:36:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[16-Mar-2020 03:52:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Product/save.php on line 46
+[16-Mar-2020 07:24:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[16-Mar-2020 07:24:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[16-Mar-2020 10:52:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[16-Mar-2020 10:52:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[17-Mar-2020 07:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[17-Mar-2020 10:11:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[17-Mar-2020 10:11:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[17-Mar-2020 10:11:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[17-Mar-2020 10:11:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[19-Mar-2020 03:00:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Mar-2020 03:28:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[20-Mar-2020 07:09:02 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 57
+[21-Mar-2020 04:17:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[24-Mar-2020 03:28:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[24-Mar-2020 04:47:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[26-Mar-2020 06:47:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[26-Mar-2020 06:48:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[26-Mar-2020 06:49:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[26-Mar-2020 09:19:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Mar-2020 09:19:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Mar-2020 09:24:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Mar-2020 09:24:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[30-Mar-2020 04:14:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[01-Apr-2020 03:44:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[01-Apr-2020 03:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[01-Apr-2020 03:44:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[01-Apr-2020 03:44:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[01-Apr-2020 09:06:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[02-Apr-2020 02:39:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Apr-2020 02:39:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[03-Apr-2020 05:22:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[03-Apr-2020 05:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[21-Apr-2020 03:22:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-Apr-2020 03:22:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-May-2020 09:09:02 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-May-2020 09:09:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[20-May-2020 10:58:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[20-May-2020 10:58:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-May-2020 03:50:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-May-2020 03:50:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-May-2020 06:09:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-May-2020 06:09:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-May-2020 09:38:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-May-2020 09:38:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[21-May-2020 10:00:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[21-May-2020 10:00:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[22-May-2020 08:23:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[22-May-2020 08:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[25-May-2020 05:21:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 05:21:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[25-May-2020 07:06:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 07:06:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[25-May-2020 07:06:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 07:06:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[25-May-2020 07:06:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 07:06:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[25-May-2020 07:59:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 07:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[25-May-2020 07:59:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[25-May-2020 07:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-May-2020 00:40:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-May-2020 00:40:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-May-2020 00:40:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-May-2020 00:40:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-May-2020 07:14:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-May-2020 07:14:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[27-May-2020 10:13:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[27-May-2020 10:13:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-May-2020 04:09:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[28-May-2020 04:09:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-May-2020 04:09:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[28-May-2020 04:09:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[28-May-2020 04:56:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[28-May-2020 04:56:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[29-May-2020 10:03:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Product/updates.php on line 5
+[29-May-2020 10:03:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Product/updates.php on line 5
+[29-May-2020 10:03:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/hanseinthant/public_html/Product/updates.php on line 5
+[04-Jun-2020 02:30:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[04-Jun-2020 02:31:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[17-Jun-2020 08:29:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[17-Jun-2020 08:29:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[26-Jun-2020 02:54:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[26-Jun-2020 02:54:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[01-Jul-2020 02:30:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[01-Jul-2020 02:30:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[02-Jul-2020 07:29:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[02-Jul-2020 07:29:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:53 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:16:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:16:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:17:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:17:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:17:09 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:17:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:17:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:17:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:17:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:17:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[15-Jul-2020 04:17:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Product/loadmoredata.php on line 12
+[15-Jul-2020 04:17:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Product/loadmoredata.php on line 13
+[14-Aug-2020 06:14:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[14-Aug-2020 06:14:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[14-Oct-2020 01:55:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/hanseinthant/bar.php:5) in /home/hanseinthant/public_html/hanseinthant/Product/new.php on line 9
+[25-Nov-2020 08:40:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[25-Nov-2020 08:40:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[25-Nov-2020 08:40:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[25-Nov-2020 08:40:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[25-Nov-2020 08:40:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[25-Nov-2020 08:40:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[25-Nov-2020 08:40:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[25-Nov-2020 08:40:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[25-Nov-2020 08:40:39 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[25-Nov-2020 08:40:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[07-Dec-2020 15:31:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[07-Dec-2020 15:31:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[07-Dec-2020 15:31:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[07-Dec-2020 15:31:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[06-Mar-2021 06:11:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[06-Mar-2021 06:11:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13
+[06-Mar-2021 06:11:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 12
+[06-Mar-2021 06:11:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/Product/loadmoredata.php on line 13

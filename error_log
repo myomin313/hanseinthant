@@ -1,0 +1,50 @@
+[11-Dec-2019 07:05:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/post-login.php on line 27
+[11-Dec-2019 07:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[11-Dec-2019 07:05:42 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/post-login.php on line 27
+[11-Dec-2019 07:05:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[11-Dec-2019 07:05:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/post-login.php on line 27
+[11-Dec-2019 07:05:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[11-Dec-2019 07:06:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/post-login.php on line 27
+[11-Dec-2019 07:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[11-Dec-2019 07:07:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home/hanseinthant/public_html/post-login.php on line 27
+[11-Dec-2019 07:07:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[19-Jul-2020 12:25:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'hanseint_thant'@'localhost' to database 'hanseint_db_new' in /home/hanseinthant/public_html/post-login.php on line 27
+[19-Jul-2020 12:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[19-Jul-2020 12:28:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'hanseint_thant'@'localhost' to database 'hanseint_db_new' in /home/hanseinthant/public_html/post-login.php on line 27
+[19-Jul-2020 12:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[19-Jul-2020 12:31:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'hanseint_thant'@'localhost' to database 'hanseint_db_new' in /home/hanseinthant/public_html/post-login.php on line 27
+[19-Jul-2020 12:31:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[19-Jul-2020 12:33:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/hanseinthant/public_html/post-login.php on line 27
+[19-Jul-2020 12:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38
+[19-Jul-2020 12:35:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'hanseint_thant'@'localhost' to database 'hanseint_db_new' in /home/hanseinthant/public_html/post-login.php on line 27
+[19-Jul-2020 12:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/hanseinthant/public_html/post-login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/post-login.php on line 38

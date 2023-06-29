@@ -1,0 +1,16 @@
+[02-Aug-2019 03:38:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[03-Aug-2019 02:38:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[03-Aug-2019 02:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[03-Aug-2019 02:43:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[05-Aug-2019 04:34:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[06-Aug-2019 04:39:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[06-Aug-2019 04:39:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Instock/list.php:741
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Instock/list.php on line 741
+[06-Aug-2019 08:27:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648
+[06-Aug-2019 08:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/hanseinthant/public_html/Instock/list.php:741
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Instock/list.php on line 741
+[06-Aug-2019 11:43:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Instock/list.php on line 648

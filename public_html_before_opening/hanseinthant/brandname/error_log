@@ -1,0 +1,2 @@
+[06-Aug-2020 09:02:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/brandname/list.php on line 98
+[06-Aug-2020 09:02:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/hanseinthant/brandname/list.php on line 101

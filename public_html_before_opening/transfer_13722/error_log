@@ -1,0 +1,32 @@
+[21-Apr-2022 02:58:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:15:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:15:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:27:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:27:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:28:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[21-Apr-2022 03:38:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/detail.php on line 432
+[30-Apr-2022 12:19:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[30-Apr-2022 12:19:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[17-May-2022 07:11:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[17-May-2022 07:11:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[20-May-2022 08:12:19 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[20-May-2022 08:12:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[20-May-2022 09:30:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/updatetransferno.php on line 13
+[20-May-2022 09:30:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/updatetransferno.php on line 13
+[21-May-2022 06:02:44 UTC] PHP Parse error:  syntax error, unexpected '$balanceUSDs' (T_VARIABLE) in /home/hanseinthant/public_html/transfer/updatenew.php on line 77
+[24-Jun-2022 03:11:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/updatetransferno.php on line 13
+[24-Jun-2022 03:11:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/updatetransferno.php on line 13
+[28-Jun-2022 04:46:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[28-Jun-2022 04:46:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[28-Jun-2022 04:46:54 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[28-Jun-2022 04:46:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[28-Jun-2022 04:46:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[28-Jun-2022 04:46:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[28-Jun-2022 04:46:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[28-Jun-2022 04:46:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[28-Jun-2022 04:46:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 13
+[28-Jun-2022 04:46:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/transfer/loadmoredata.php on line 14
+[22-Jul-2022 05:22:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/save.php on line 41
+[22-Jul-2022 05:22:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hanseinthant/public_html/transfer/save.php on line 173
+[22-Jul-2022 05:23:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/transfer/save.php on line 41
+[22-Jul-2022 05:23:13 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hanseinthant/public_html/transfer/save.php on line 173

@@ -1,0 +1,4 @@
+[06-Aug-2019 08:02:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[06-Aug-2019 09:28:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[06-Aug-2019 09:30:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[07-Aug-2019 07:54:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504

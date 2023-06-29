@@ -1,0 +1,9 @@
+[06-Aug-2019 08:02:07 UTC] PHP Warning:  A non-numeric value encountered in /home/hanseinthant/public_html/Product/save.php on line 56
+[06-Aug-2019 09:28:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[06-Aug-2019 09:30:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[07-Aug-2019 07:54:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/list.php on line 504
+[23-Aug-2019 09:23:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/detail.php on line 307
+[23-Aug-2019 09:23:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/detail.php on line 307
+[23-Aug-2019 10:37:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Product/detail.php on line 172
+[30-Aug-2019 06:46:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9
+[30-Aug-2019 06:46:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hanseinthant/public_html/bar.php:6) in /home/hanseinthant/public_html/Product/new.php on line 9

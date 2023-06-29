@@ -1,0 +1,216 @@
+[14-Nov-2019 11:16:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/show_data.php on line 4
+[14-Nov-2019 11:16:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/show_data.php on line 4
+[18-Nov-2019 05:20:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Return/save.php on line 32
+[18-Nov-2019 07:23:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Return/save.php on line 32
+[25-Nov-2019 04:33:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Return/save.php on line 32
+[30-Dec-2019 06:32:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[30-Dec-2019 06:32:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[30-Dec-2019 09:40:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[30-Dec-2019 09:40:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[30-Dec-2019 09:51:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[30-Dec-2019 09:51:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:26 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:28 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[03-Jan-2020 10:52:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[03-Jan-2020 10:52:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[07-Jan-2020 09:25:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[07-Jan-2020 09:25:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[07-Jan-2020 09:25:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[07-Jan-2020 09:25:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[22-Jan-2020 09:33:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[22-Jan-2020 09:33:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[10-Feb-2020 08:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[20-Feb-2020 07:31:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 254
+[20-Feb-2020 07:31:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 254
+[20-Feb-2020 07:31:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 254
+[20-Feb-2020 07:31:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 254
+[20-Feb-2020 07:52:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 254
+[20-Feb-2020 07:56:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 256
+[20-Feb-2020 08:08:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 258
+[20-Feb-2020 08:08:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 258
+[20-Feb-2020 08:09:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 258
+[20-Feb-2020 08:09:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 258
+[20-Feb-2020 08:24:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 263
+[24-Feb-2020 10:43:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:44:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:45:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[24-Feb-2020 10:57:11 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hanseinthant/public_html/Return/history.php on line 234
+[25-Feb-2020 02:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[25-Feb-2020 02:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[25-Feb-2020 02:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[25-Feb-2020 06:35:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[25-Feb-2020 06:35:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[25-Feb-2020 06:35:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[25-Feb-2020 06:35:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[25-Feb-2020 06:35:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[25-Feb-2020 06:35:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[25-Feb-2020 06:35:55 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[25-Feb-2020 06:35:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[25-Feb-2020 07:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[25-Feb-2020 07:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:221
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 221
+[23-Mar-2020 11:04:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/get-commodity.php on line 24
+[23-Mar-2020 11:04:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/get-commodity.php on line 24
+[21-Apr-2021 07:31:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Apr-2021 07:31:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Apr-2021 07:31:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[25-Jun-2021 14:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[01-Jul-2021 02:08:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 288
+[01-Jul-2021 02:13:20 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/hanseinthant/public_html/Return/detail.php on line 287
+[20-Aug-2021 04:21:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[20-Aug-2021 04:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[20-Aug-2021 04:47:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[21-Sep-2021 08:44:21 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Sep-2021 08:44:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[21-Sep-2021 08:44:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[21-Sep-2021 08:44:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
+[26-Sep-2021 15:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[06-Dec-2021 04:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:265
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 265
+[31-Jan-2022 03:31:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hanseinthant/public_html/Return/save.php on line 33
+[22-Apr-2022 10:28:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 297
+[23-Apr-2022 02:58:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 297
+[23-Apr-2022 16:26:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/detail.php on line 297
+[28-May-2022 04:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 09:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 09:47:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 09:55:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 09:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 11:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 16:05:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 16:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:267
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 267
+[28-May-2022 16:10:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hanseinthant/public_html/Return/history.php:266
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 266
+[28-May-2022 16:12:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hanseinthant/public_html/Return/history.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 268
+[28-May-2022 16:13:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/hanseinthant/public_html/Return/history.php:269
+Stack trace:
+#0 /home/hanseinthant/public_html/Return/history.php(269): mysqli_query(Object(mysqli), ' SELECT Custome...')
+#1 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 269
+[28-May-2022 16:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/hanseinthant/public_html/Return/history.php:269
+Stack trace:
+#0 {main}
+  thrown in /home/hanseinthant/public_html/Return/history.php on line 269
+[28-May-2022 16:35:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/history.php on line 181
+[28-May-2022 16:56:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/hanseinthant/public_html/Return/history.php on line 262
+[27-Sep-2022 07:57:17 UTC] PHP Warning:  mysqli_query(): Empty query in /home/hanseinthant/public_html/Return/loadmoredata.php on line 12
+[27-Sep-2022 07:57:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hanseinthant/public_html/Return/loadmoredata.php on line 13
